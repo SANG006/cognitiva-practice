@@ -1,5 +1,9 @@
 # Cognitiva Practice — GitHub Pages edition
 
+Live website: https://sang006.github.io/cognitiva-practice/
+
+Published and verified on GitHub Pages. The repository uses main/root branch publishing.
+
 Thai-first static reasoning practice. 80 original tasks in four domains, 10/30/50-question modes, optional browser timer, raw scoring, per-domain charts and explanations. Mobile-friendly SVG diagrams preserve proportions.
 
 ## What this edition does
